@@ -1,0 +1,27 @@
+<!--index.wxml-->
+
+<view class="container">
+
+  <view class="usermotto">
+
+    <text class="user-motto">{{motto}}</text>
+
+  </view>
+
+  <view bindtap="bindViewTap" class="userinfo">
+
+    <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+
+    <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    <text class="userinfo-nickname"> LV. {{userInfo.nickName}}</text>
+
+      <button class='to' type="default" size="{{defaultSize}}" loading="{{loading}}" plain="{{plain}}" disabled="{{disabled}}" bindtap="topa" hover-class="other-button-hover"> 开扒 </button>
+
+<button class='to' type="default" size="{{defaultSize}}" loading="{{loading}}" plain="{{plain}}" disabled="{{disabled}}" bindtap="default" hover-class="other-button-hover"> 我的扒 </button>
+
+       <button class='to' type="default" size="{{defaultSize}}" loading="{{loading}}" plain="{{plain}}" disabled="{{disabled}}" bindtap="default" hover-class="other-button-hover"> 排行榜 </button>
+
+  </view>
+  
+
+</view>

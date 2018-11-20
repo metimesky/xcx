@@ -1,0 +1,8 @@
+
+.keysMain{align-items: left;}
+.keys{height: 90rpx;width: 90rpx;
+margin-right:20rpx;
+margin-bottom: 20rpx;
+}
+
+.zi{margin-bottom: 50px;}
