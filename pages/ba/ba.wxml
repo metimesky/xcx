@@ -4,24 +4,24 @@
 
   字
   <view class="zi">
- <movable-area style="height: 100px;width: 100px;background: red;" direction="all">
-     <movable-view style="height: 200px; width: 200px; background: blue;">
-     <image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+ <movable-area style="height: 40px;width: 40px;background: red;" direction="all">
+     <movable-view style="height: 40px; width: 40px; background: blue;">
+     <image class="keys" src="../../img/abc/q@2x.png" background-size="cover"></image>
      </movable-view>
    </movable-area>
   </view>
 
 
 <view class='keysMain'>
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/q@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/w@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/e@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/r@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/t@2x.png" background-size="cover"></image>
 
 
 
@@ -29,60 +29,60 @@
   
 
   <view class='keysMain'>
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/y@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/u@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/i@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/o@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/p@2x.png" background-size="cover"></image>
 
-
-</view>
-
-<view class='keysMain'>
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
-
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
-
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
-
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
-
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
 
 </view>
 
 <view class='keysMain'>
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/a@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/s@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/d@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/f@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/g@2x.png" background-size="cover"></image>
 
 </view>
 
 <view class='keysMain'>
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/h@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/j@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/k@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/l@2x.png" background-size="cover"></image>
 
-<image class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover"></image>
+<image class="keys" src="../../img/abc/z@2x.png" background-size="cover"></image>
+
+</view>
+
+<view class='keysMain'>
+<image class="keys" src="../../img/abc/x@2x.png" background-size="cover"></image>
+
+<image class="keys" src="../../img/abc/c@2x.png" background-size="cover"></image>
+
+<image class="keys" src="../../img/abc/v@2x.png" background-size="cover"></image>
+
+<image class="keys" src="../../img/abc/b@2x.png" background-size="cover"></image>
+
+<image class="keys" src="../../img/abc/n@2x.png" background-size="cover"></image>
 
 </view>
 
 <view>
-<image id="abcM" class="keys" src="http://www.vividict.com/UpFile/5/20110320002627863s.JPG" background-size="cover" bindtap="abcM"></image>
+<image id="abcM" class="keys" src="../../img/abc/m@2x.png" background-size="cover" bindtap="abcM"></image>
 </view>
 
 </view>
